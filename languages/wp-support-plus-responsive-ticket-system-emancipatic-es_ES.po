@@ -1,0 +1,1210 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-10 17:31+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"Language: es\n"
+"Project-Id-Version: WP Support Plus Responsive Ticket System\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "'.exe', '.php' files are not allowed!"
+msgstr "¡Los archivos '.exe', '.php' no están permitidos!"
+
+msgid "10"
+msgstr "10"
+
+msgid "100"
+msgstr "100"
+
+msgid "20"
+msgstr "20"
+
+msgid "30"
+msgstr "30"
+
+msgid "40"
+msgstr "40"
+
+msgid "50"
+msgstr "50"
+
+msgid "500"
+msgstr "500"
+
+msgid "<strong>%d</strong> Tickets"
+msgstr "<strong>%d</strong> Tickets"
+
+msgid "<strong>%d</strong> of <strong>%d</strong> Pages"
+msgstr "<strong>%d</strong> de <strong>%d</strong> Páginas"
+
+msgid "<strong>%d</strong>-<strong>%d</strong> of <strong>%d</strong> Tickets"
+msgstr "<strong>%d</strong>-<strong>%d</strong> de <strong>%d</strong> Tickets"
+
+msgid "Action"
+msgstr "Acción"
+
+msgid "Add New"
+msgstr "Añadir Nuevo"
+
+msgid "Add New Agent"
+msgstr "Añadir Nuevo Agente"
+
+msgid "Add New Category"
+msgstr "Añadir nueva categoria"
+
+msgid "Add New Custom Field"
+msgstr "Añadir Nuevo Campo Personalizado"
+
+msgid "Add New Menu Slider"
+msgstr "Agregar nuevo control deslizante de menú"
+
+msgid "Add New Priority"
+msgstr "Añadir Nueva Prioridad"
+
+msgid "Add New Status"
+msgstr "Añadir Nuevo Estado"
+
+msgid "Add New Support Page Menu"
+msgstr "Añadir nuevo Menú de Página de Soporte"
+
+msgid "Add Private Note"
+msgstr "Añadir Nota Privada"
+
+msgid "Add-Ons"
+msgstr "Complementos"
+
+msgid "Administrator"
+msgstr "Administrador"
+
+msgid "Agent"
+msgstr "Agente"
+
+msgid "Agent Created"
+msgstr "Agente Creado"
+
+msgid "Agent Filter"
+msgstr "Filtro de Agente"
+
+msgid "Agent Only"
+msgstr "Agente Solamente"
+
+msgid "Agent Only Fields"
+msgstr "Campos solo para el Agente "
+
+msgid ""
+"Agent Only fields not available for ticket form. These can be edited by "
+"agents for their internal use."
+msgstr ""
+"Los campos de Agente no están disponibles para el formulario de ticket. "
+"Estos solamente pueden ser editados por agentes para uso interno."
+
+msgid "Agent View"
+msgstr "Vista de Agente"
+
+msgid "Agents"
+msgstr "Agentes"
+
+msgid "Agents & Supervisors"
+msgstr "Agentes y Supervisores"
+
+msgid "All"
+msgstr "Todo(s)"
+
+msgid "Allow Assign Ticket"
+msgstr "Permitir Asignar Ticket"
+
+msgid "Allow Change Raised By"
+msgstr "Permitir Cambiar Destacado Por"
+
+msgid "Allow Customer to Close Ticket"
+msgstr "Permitir que el cliente cierre el ticket"
+
+msgid "Allow Delete Ticket"
+msgstr "Permitir Borrar Ticket"
+
+msgid "Allow Guest Ticket"
+msgstr "Permitir Tickets de Invitado"
+
+msgid "Allow Read Only Not Assigned Tickets"
+msgstr "Permitir Solo Lectura a los tickets Asignados"
+
+msgid "Allow Support Staff to read all ticket"
+msgstr "Permitir a los empleados de Soporte leer todo los tickets"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Apply Filters"
+msgstr "Aplicar Filtros"
+
+msgid "Are you sure to add this note?"
+msgstr "¿Esta seguro de que quiere añadir esta nota?"
+
+msgid "Are you sure to close ticket?"
+msgstr "¿Está seguro de querer cerrar este ticket?"
+
+msgid "Are you sure to delete these tickets?"
+msgstr "¿Está seguro de querer borrar estos Tickets?"
+
+msgid "Are you sure to delete this agent?"
+msgstr "¿Está seguro de querer borrar a este agente?"
+
+msgid "Are you sure to delete this category?"
+msgstr "¿Está seguro de querer borrar esta categoría?"
+
+msgid "Are you sure to delete this custom field?"
+msgstr "¿Está seguro de querer borrar este campo personalizado?"
+
+msgid "Are you sure to delete this menu?"
+msgstr "¿Está seguro de querer borrar este menú?"
+
+msgid "Are you sure to delete this priority?"
+msgstr "¿Está seguro de querer borrar esta prioridad?"
+
+msgid "Are you sure to delete this status?"
+msgstr "¿Está seguro de querer borrar este estado?"
+
+msgid "Are you sure to delete this thread?"
+msgstr "¿Está seguro de querer borrar este hilo?"
+
+msgid "Are you sure to delete this ticket?"
+msgstr "¿Está seguro de querer borrar este ticket?"
+
+msgid "Are you sure to post this reply?"
+msgstr "¿Esta seguro de que quiere enviar esta respuesta?"
+
+msgid "Are you sure?"
+msgstr "¿Está seguro?"
+
+msgid ""
+"As name suggest, this setting will change ticket status to selected when "
+"support agent reply to ticket. Current Status will not change status of "
+"ticket in this case."
+msgstr ""
+"Como su nombre sugiere, esta configuración cambiará el estado del ticket a "
+"seleccionado cuando el agente de soporte responda al ticket. El estado "
+"actual no cambiará el estado del ticket en este caso."
+
+msgid ""
+"As name suggest, this setting will change ticket status to selected when "
+"ticket creator reply to ticket. Current Status will not change status of "
+"ticket in this case."
+msgstr ""
+"Como su nombre lo sugiere, esta configuración cambiará el estado del ticket "
+"a seleccionado cuando el creador del ticket responda al ticket. El estado "
+"actual no cambiará el estado del ticket en este caso."
+
+msgid "Assign Agent"
+msgstr "Asignar Agente"
+
+msgid "Assign Categories (optional)"
+msgstr "Asignar Categorías (opcional)"
+
+msgid "Assigned Agent"
+msgstr "Agente Asignado"
+
+msgid "Assigned Agents"
+msgstr "Agentes Asignados"
+
+msgid "Assigned Categories"
+msgstr "Categorías Asignadas"
+
+msgid "Attach Files"
+msgstr "Adjuntar Archivos"
+
+msgid "Attachment"
+msgstr "Archivo Adjunto"
+
+msgid "Attachment Max Size(MB)"
+msgstr "Tamaño Max. de Archivos Adjuntos (MB)"
+
+msgid "Attachments"
+msgstr "Archivos Adjuntos:"
+
+msgid "Attachments:"
+msgstr "Archivos Adjuntos:"
+
+msgid "BCC (Comma separated list)"
+msgstr "BCC (lista separada por comas)"
+
+msgid "Back to website"
+msgstr "Regresar a la Web"
+
+msgid "Bank to tickets"
+msgstr "Volver a los tickets"
+
+msgid "Bottom"
+msgstr "Parte Inferior"
+
+msgid "Calender Date Format"
+msgstr "Formato de Fecha del Calendario"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Category Name"
+msgstr "Categoría"
+
+msgid "Change Agent Fields"
+msgstr "Cambiar Campos de Agente"
+
+msgid "Change Assigned Agent"
+msgstr "Cambiar Agente Asignado"
+
+msgid "Change Raised By"
+msgstr "Cambio Destacado Por"
+
+msgid "Change Status"
+msgstr "Cambiar Estado"
+
+msgid "Change Ticket Fields"
+msgstr "Cambiar Campos de Ticket"
+
+msgid "Change Ticket Status"
+msgstr "Cambiar Estado de Ticket"
+
+msgid "Cheating huh?"
+msgstr "¿Haciendo trampas eh?"
+
+msgid "Checkbox"
+msgstr "Checkbox"
+
+msgid "Choose Color"
+msgstr "Seleccione un Color"
+
+msgid "Choose Field Type"
+msgstr "Elegir Tipo de Campo"
+
+msgid "Choose Logo"
+msgstr "Elegir Logo"
+
+msgid "Choose User"
+msgstr "Elegir Usuario"
+
+msgid "Click Here"
+msgstr "Click Aquí"
+
+msgid "Clone Ticket"
+msgstr "Clonar Ticket"
+
+msgid "Close Ticket"
+msgstr "Cerrar Ticket"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Confirm"
+msgstr "Confirmar"
+
+msgid "Create New Ticket"
+msgstr "Crear Nuevo Ticket"
+
+msgid "Create New Ticket Form"
+msgstr "Crear Nuevo Formulario de Ticket"
+
+msgid "Create Ticket As"
+msgstr "Crear Ticket como"
+
+msgid "Current Status"
+msgstr "Estado Actual"
+
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+msgid "Custom Date Format"
+msgstr " Formato de Fecha Personalizada"
+
+msgid "Custom Fields"
+msgstr "Campos Personalizados"
+
+msgid "Custom Menu Slider"
+msgstr "Control deslizante de menú personalizado"
+
+msgid "Customer Filter"
+msgstr "Filtro de Cliente"
+
+msgid "Customer View"
+msgstr "Vista de Cliente"
+
+msgid "Dashboard"
+msgstr "Escritorio"
+
+msgid "Dashbord"
+msgstr "Escritorio"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Date Created"
+msgstr "Fecha de Creación"
+
+msgid "Date Updated"
+msgstr "Fecha de Actualización"
+
+msgid "Default"
+msgstr "Predeterminado"
+
+msgid "Default Category"
+msgstr "Categoría Predeterminada"
+
+msgid "Default Filters"
+msgstr "Filtros predeterminados"
+
+msgid "Default Ticket Priority"
+msgstr "Prioridad por Defecto para Tickets."
+
+msgid "Default Ticket Status"
+msgstr "Estado por Defecto para Tickets."
+
+msgid "Default filter can not be deleted!"
+msgstr "¡El filtro predeterminado no se puede borrar!"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Delete Agent"
+msgstr "Borrar Agente"
+
+msgid "Delete Category"
+msgstr "Borrar Categoría"
+
+msgid "Delete Custom Field"
+msgstr "Borrar Campo Personalizado"
+
+msgid "Delete Custom Menu"
+msgstr "Borrar Menú Personalizado"
+
+msgid "Delete Priority"
+msgstr "Borrar Prioridad"
+
+msgid "Delete Status"
+msgstr "Borrar Estado"
+
+msgid "Delete Support Menu"
+msgstr "Borrar Menú de Soporte"
+
+msgid "Delete Thread"
+msgstr "Borrar Hilo"
+
+msgid "Delete Ticket"
+msgstr "Borrar Ticket"
+
+msgid "Delete Tickets"
+msgstr "Borrar Tickets"
+
+msgid "Delete this thread"
+msgstr "Borrar este Hilo"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Disable"
+msgstr "Deshabilitar"
+
+msgid "Dismiss this notice"
+msgstr "Eliminar esta notificación"
+
+msgid "Download"
+msgstr "Descargar"
+
+msgid "Drop-Down"
+msgstr "Desplegable"
+
+msgid "Edit Category"
+msgstr "Editar Categoría"
+
+msgid "Edit Custom Field"
+msgstr "Editar Campo Personalizado"
+
+msgid "Edit Priority"
+msgstr "Editar Prioridad"
+
+msgid "Edit Status"
+msgstr "Editar Estado"
+
+msgid "Edit Subject"
+msgstr "Editar Asunto"
+
+msgid "Edit Thread"
+msgstr "Editar Hilo"
+
+msgid "Edit this thread"
+msgstr "Editar este hilo"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email of ticket creator"
+msgstr "Email del creador del ticket"
+
+msgid "Email of user posted last reply."
+msgstr "Email del usuario que emitió la última respuesta."
+
+msgid "Enable"
+msgstr "Habilitar"
+
+msgid "Enter Field Options"
+msgstr "Introducir Opciones de Campo"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Error saving order!"
+msgstr "¡Error guardando acción!"
+
+msgid "Error: file format not supported!"
+msgstr "¡Error: formato de archivo no soportado!"
+
+msgid "Error: file size exceeded allowed limit!"
+msgstr "¡Error: El tamaño de archivo excede el limite permitido!"
+
+msgid "Field Label"
+msgstr "Etiqueta de Campo"
+
+msgid "File Size limit exceeded! Allowed limit:"
+msgstr "¡Limite de tamaño de archivo excedido! Tamaño permitido:"
+
+msgid "Filter Name"
+msgstr "Filtrar Nombre"
+
+msgid "Filter not found!"
+msgstr "¡Filtro no encontrado!"
+
+msgid "Footer Text"
+msgstr "Texto de Pie de Página"
+
+msgid "From"
+msgstr "De"
+
+msgid "Full Width"
+msgstr "Ancho Completo"
+
+msgid "General"
+msgstr "General"
+
+msgid "General Settings"
+msgstr "Ajustes Generales"
+
+msgid "Guest"
+msgstr "Usuario Invitado"
+
+msgid "Guest Email"
+msgstr "Correo electrónico de Usuario Invitado"
+
+msgid "Guest Name"
+msgstr "Nombre de Invitado"
+
+msgid "Guest sign in"
+msgstr "Iniciar sesión como usuario invitado"
+
+msgid "Hide Selected Statuses"
+msgstr "Ocultar los Estados Seleccionados"
+
+msgid "History of communication in ticket."
+msgstr "Historial de comunicación en ticket."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Icon"
+msgstr "Icono"
+
+msgid ""
+"If category is set, custom field will only visible when one of the selected "
+"category is choosen in create ticket form. If you want to show this all the "
+"time, please leave this empty. Use Ctrl+Click for select OR unselect value."
+msgstr ""
+"Si la categoría está configurada, el campo personalizado solamente será "
+"visible cuando una de las categorías seleccionadas sea elegida en crear "
+"formulario de ticket. Si quiere que esto aparezca siempre, por favor deje "
+"este campo vacío. Use Ctrl+Click para seleccionar O deseleccionar un valor."
+
+msgid ""
+"If enabled, it will show Close Ticket button to open ticket view for "
+"customer. This button will change ticket status to selected status."
+msgstr ""
+"Si está habilitado, mostrará el botón Cerrar ticket para abrir la vista de "
+"ticket para el cliente. Este botón cambiará el estado del ticket al estado "
+"seleccionado."
+
+msgid ""
+"If enabled, it will show Support Button on front-end website. When visitor "
+"click this button, it will open Support Page selected above in new tab."
+msgstr ""
+"Si está habilitado, mostrará el botón de soporte en el sitio web. Cuando el "
+"visitante haga clic en este botón, se abrirá la Página de Soporte "
+"seleccionada arriba en la nueva pestaña."
+
+msgid ""
+"If set yes, an agent will able to assign ticket assigned to him to some "
+"other agent who is assigned to ticket category."
+msgstr ""
+"Si se establece si, un agente podrá asignar un ticket que le fue asignado a "
+"otro agente asignado a categoría de ticket."
+
+msgid ""
+"If set yes, an agent will able to change raised by of ticket assigned to him."
+msgstr ""
+"Si se establece si, el agente podrá cambiar el destacado de tickets que le "
+"fueron asignados."
+
+msgid "If set yes, an agent will able to delete ticket assigned to him."
+msgstr ""
+"Si se establece si, el agente podrá  borrar los tickets que le fueron "
+"asignados."
+
+msgid ""
+"If set yes, an agent will able to view all tickets of categories assigned to "
+"him but do not have permission to reply or modify in tickets not assigned to "
+"him. This is important to have this permission because sometimes an agent "
+"will need to refer other tickets not assigned to him."
+msgstr ""
+"Si se establece sí, un agente podrá ver todos los tickets de las categorías "
+"que se le asignaron, pero no tiene permiso para responder o modificar los "
+"tickets que no le han sido asignadas. Esto es importante para tener este "
+"permiso porque a veces un agente necesitará referir otros tickets que no le "
+"fueron asignados."
+
+msgid ""
+"If set yes, supervisor will able to change raised by of tickets of assigned "
+"categories."
+msgstr ""
+"Si se establece sí, el supervisor podrá cambiar el destacado de los tickets "
+"de las categorías asignadas."
+
+msgid ""
+"If set yes, supervisor will able to delete tickets of assigned categories"
+msgstr ""
+"Si se establece sí, el supervisor podrá borrar los tickets de las categorías "
+"asignadas."
+
+msgid ""
+"If you set SRN, [Ticket #123456] will become [Ticket SRN123456] whereever "
+"applicable. Please don't leave blank."
+msgstr ""
+"Si pones SRN, [Ticket #123456] será [Ticket SRN123456] donde corresponda. "
+"Por favor no lo dejen en blanco."
+
+msgid "Incorrect Email Address!"
+msgstr "¡Dirección de Correo Electrónico Incorrecta!"
+
+msgid "Incorrect URL!"
+msgstr "¡URL Incorrecta!"
+
+msgid "Last reply description."
+msgstr "Descripción de la ultima respuesta."
+
+msgid "Licenses"
+msgstr "Licencias"
+
+msgid "List Settings"
+msgstr "Ajustes de Lista"
+
+msgid "Login"
+msgstr "Iniciar Sesión"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Manage Form"
+msgstr "Gestionar Formulario"
+
+msgid "Menu Icon"
+msgstr "Icono del Menú"
+
+msgid "Menu URL"
+msgstr "URL de Menu"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid ""
+"Name of the agent who have created ticket on behalf of user. Empty if ticket "
+"created by user himself."
+msgstr ""
+"Nombre del agente que ha creado el ticket en nombre del usuario. Vacío si el "
+"ticket fue creado por el usuario."
+
+msgid "Name of ticket creator"
+msgstr "Nombre del creador del ticket"
+
+msgid "Name of user doing current activity."
+msgstr "Nombre del usuario conectado actualmente."
+
+msgid "Name of user posted last reply."
+msgstr "Nombre del usuario que emitió la última respuesta."
+
+msgid "Name or Email not given!"
+msgstr "¡Falta el nombre o email!"
+
+msgid "Name(s) of agent assigned to ticket."
+msgstr "Nombre(s) del agente asignado al ticket."
+
+msgid "No"
+msgstr "No"
+
+msgid "No Agent Only fields"
+msgstr "Campos para cuando no hay Agente"
+
+msgid "No Custom Fields found!"
+msgstr "¡No se encontraron campos personalizados!"
+
+msgid "No Description"
+msgstr "Sin Descripción"
+
+msgid "No Subject"
+msgstr "Sin Asunto"
+
+msgid "No Ticket fields"
+msgstr "Campos de Ticket no encontrados"
+
+msgid "No Tickets found!"
+msgstr "¡No se encontraron tickets!"
+
+msgid "No results found!"
+msgstr "¡No se han encontrado resultados!"
+
+msgid "No user found!"
+msgstr "¡Usuario no encontrado!"
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "Note can not be empty!"
+msgstr "¡La nota no puede estar vacía!"
+
+msgid "Number of Tickets"
+msgstr "Número de Tickets"
+
+msgid "Number of Tickets shown per page for agent view."
+msgstr "Numero de Tickets por página según la vista de agente"
+
+msgid "Number of Tickets shown per page for customer view."
+msgstr "Numero de Tickets mostrados por página según la vista de cliente."
+
+msgid "OR"
+msgstr "O"
+
+msgid "On %1$s, %2$s wrote:"
+msgstr "El %1$s, %2$s escribió:"
+
+msgid "Only '.jpeg','.jpg', '.png', '.gif', '.bmp' formats are allowed."
+msgstr "Formatos admitidos: '.jpeg','.jpg', '.png', '.gif', '.bmp' "
+
+msgid "Open in Browser"
+msgstr "Abrir en el Navegador"
+
+msgid "Open support page in new window?"
+msgstr "¿Abrir la página de soporte en una ventana nueva?"
+
+msgid "Order"
+msgstr "Instrucción"
+
+msgid "Order By"
+msgstr "Orden de"
+
+msgid "Order saved successfully!"
+msgstr "¡Acción guardada satisfactoriamente!"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Please Confirm"
+msgstr "Por Favor Confirme"
+
+msgid "Please Wait ..."
+msgstr "Por favor Espere..."
+
+msgid "Please choose Field Type!"
+msgstr "¡Por favor seleccione las Opciones de Campo!"
+
+msgid "Please choose color!"
+msgstr "¡Por favor seleccione un color!"
+
+msgid "Please choose registered user!"
+msgstr "¡Por favor seleccione un usuario registrado!"
+
+msgid "Please enter Field Label!"
+msgstr "¡Por favor introduzca la Etiqueta de Campo!"
+
+msgid "Please enter category name!"
+msgstr "¡Por favor, ingrese la categoría!"
+
+msgid "Please enter filter name!"
+msgstr "¡Por favor introduzca el nombre  del filtro!"
+
+msgid "Please enter priority name!"
+msgstr "¡Por favor introduzca un nombre para la prioridad!"
+
+msgid "Please enter status name!"
+msgstr "¡Por favor introduzca el nombre para el estado!"
+
+msgid "Please insert Field Options!"
+msgstr "¡Por favor introduzca las Opciones de Campo!"
+
+msgid "Please make sure you enter one option per line"
+msgstr "Por favor introduzca una única opción por linea"
+
+msgid ""
+"Please note, this will delete all data associated with this custom field and "
+"can not be undone!"
+msgstr ""
+"¡Por favor tenga en cuenta que esta acción borrará todos los datos asociados "
+"con este campo personalizado y no se podrá deshacer!"
+
+msgid "Please select an Agent!"
+msgstr "Por favor seleccione un agente!"
+
+msgid "Please sign in"
+msgstr "Por favor inicie sesión"
+
+msgid "Please wait..."
+msgstr "Por favor espere..."
+
+msgid "Post Reply"
+msgstr "Enviar Respuesta"
+
+msgid "Priorities"
+msgstr "Prioridades"
+
+msgid "Priority"
+msgstr "Prioridad"
+
+msgid "Priority Name"
+msgstr "Nombre de Prioridad"
+
+msgid "Private"
+msgstr "Privado"
+
+msgid "Private Note:"
+msgstr "Nota Privada:"
+
+msgid "Public"
+msgstr "Público"
+
+msgid "Radio Button"
+msgstr "Botón de Radio"
+
+msgid "Raised By"
+msgstr "Destacado Por"
+
+msgid "Random"
+msgstr "Aleatorio"
+
+msgid "Registered User"
+msgstr "Usuario Registrado"
+
+msgid "Remember me"
+msgstr "Recuerdame"
+
+msgid "Reply Form Position"
+msgstr "Posición del formulario de respuesta"
+
+msgid "Reply can not be empty!"
+msgstr "¡La respuesta no puede estar vacía!"
+
+msgid "Required"
+msgstr "Requerido"
+
+msgid "Required field should not be empty!"
+msgstr "¡El campo requerido no puede estar vacío!"
+
+msgid ""
+"Required field to ticket form. If set Yes, user must have to fill or submit "
+"value for this field"
+msgstr ""
+"Campo requerido para el formulario de ticket. Si seleccionó \"Si\", el "
+"usuario tendrá que introducir un valor para este campo."
+
+msgid "Reset Filter"
+msgstr "Borrar Filtros"
+
+msgid "Reset Form"
+msgstr "Borrar Formulario"
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+msgid "Save Current Filter"
+msgstr "Guardar Filtro Actual"
+
+msgid "Save Order"
+msgstr "Guardar Instrucción"
+
+msgid "Saved Filters"
+msgstr "Filtros Guardados"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Search Agents..."
+msgstr "Buscar Agentes"
+
+msgid "Search Supervisors..."
+msgstr "Buscar Supervisores..."
+
+msgid "Search agent ..."
+msgstr "Buscar agente..."
+
+msgid "Search user ..."
+msgstr "Buscar usuario..."
+
+msgid "Search..."
+msgstr "Buscar..."
+
+msgid "Select Agent"
+msgstr "Seleccionar agente"
+
+msgid ""
+"Selected statuses will be hidden if no filter is active for agent view. If "
+"agent use status filter manually on ticket list, this setting will not take "
+"effect and tickets will be filtered as per customer selection."
+msgstr ""
+"Los estados seleccionados serán ocultados si no hay filtros activos para la "
+"vista de agente. Si el agente usa filtros de estado manualmente en la lista "
+"de tickets, este ajuste no tendrá efecto y los tickets se guardaran por el "
+"orden seleccionado por el cliente."
+
+msgid ""
+"Selected statuses will be hidden if no filter is active for customer view. "
+"If customer use status filter manually on ticket list, this setting will not "
+"take effect and tickets will be filtered as per customer selection."
+msgstr ""
+"Los estados seleccionados se ocultarán si no hay filtro activo para la vista "
+"del cliente. Si el cliente usa el filtro de estado manualmente en la lista "
+"de tickets, esta configuración no tendrá efecto y las entradas se filtrarán "
+"según la selección del cliente."
+
+msgid "Sequential"
+msgstr "Secuencial"
+
+msgid "Settings updated"
+msgstr "Ajustes actualizados"
+
+msgid "Show Support Button"
+msgstr "Mostrar Botón de Soporte"
+
+msgid "Sign In"
+msgstr "Entrar"
+
+msgid "Sign Out"
+msgstr "Salir"
+
+msgid "Sign Up"
+msgstr "Registrese"
+
+msgid "Sign in"
+msgstr "Iniciar Sesión"
+
+msgid "Sign out"
+msgstr "Cerrar Sesión"
+
+msgid ""
+"Sorry, you do not have permission to view this ticket. <a href=\"%s\" class="
+"\"alert-link\">Click here</a> for ticket list."
+msgstr ""
+"Lo sentimos, no tiene permiso para ver este/os ticket. <a href=\"%s\" class="
+"\"alert-link\">Click aquí</a> para ver la lista de tickets."
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Status List"
+msgstr "Lista de Estados"
+
+msgid "Status Name"
+msgstr "Estado"
+
+msgid "Statuses"
+msgstr "Estados"
+
+msgid "Statuses to Show"
+msgstr "Estados Para Mostrar"
+
+msgid "Subject"
+msgstr "Asunto"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Submit Note"
+msgstr "Enviar Nota"
+
+msgid "Submit Reply"
+msgstr "Enviar Respuesta"
+
+msgid "Submit Ticket"
+msgstr "Enviar Ticket"
+
+msgid "Success!"
+msgstr "¡Conseguido!"
+
+msgid "Supervisor"
+msgstr "Supervisor"
+
+msgid "Supervisor (Optional)"
+msgstr "Supervisor"
+
+msgid "Supervisor(s)"
+msgstr "Supervisor(es)"
+
+msgid "Support Button"
+msgstr "Botón de Soporte"
+
+msgid "Support Page"
+msgstr "Página de Soporte"
+
+msgid "Support Page Menu"
+msgstr "Menú de Soporte de Página"
+
+msgid "System Date Format"
+msgstr "Formato de Fecha de Sistema"
+
+msgid "Template Tags"
+msgstr "Etiquetas de Plantilla"
+
+msgid "Text Field"
+msgstr "Campo de Texto"
+
+msgid "Textarea"
+msgstr "Área de Texto"
+
+msgid "Thank You Page after create ticket"
+msgstr "Página de agradecimiento después de crear ticket"
+
+msgid "Thank you page"
+msgstr "Página de Agradecimientos"
+
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+"Hay una nueva versión de %1$s disponible. %2$s Ver versión %3$s detalles%4$s "
+"o %5$s actualizar ahora %6$s."
+
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+"Hay una nueva version de %1$s disponible. %2$s Ver detalles de versión %3$s "
+"%4$s."
+
+msgid ""
+"This category will be default category for new ticket. If category is not "
+"present in ticket form or ticket created via email piping, this category "
+"will be used as new ticket category."
+msgstr ""
+"Esta categoría será la categoría por defecto para nuevos tickets. Si no hay "
+"una categoría presente en el formulario de tickets o los tickets creados a "
+"través de envío de email, esta categoría sera la usada para nuevos tickets."
+
+msgid "This email address already registered as user. Please sign in above!"
+msgstr "¡Este email ya está registrado como usuario. Por favor Inicie Sesión!"
+
+msgid "This format will be applicable for custom date fields for Support Plus"
+msgstr ""
+"Este formato solamente será aplicable a los campos personalizados en Soporte "
+"Plus"
+
+msgid "This format will be applicable for default date fields for Support Plus"
+msgstr ""
+"Este formato solamente será aplicable a los campos de fecha por defecto en "
+"Soporte Plus"
+
+msgid ""
+"This format will be applicable for input date fields (datepicker) for WP "
+"Support Plus"
+msgstr ""
+"Este formato solamente será aplicable a los campos de ingreso de fecha "
+"(selector de fecha) en Soporte Plus"
+
+msgid "This is applicable for Ticket id being created for new ticket."
+msgstr ""
+"Esto es aplicable para el ID del ticket que se está creando para un nuevo "
+"ticket."
+
+msgid ""
+"This page will be used as helpdesk page on front-end. All users ( customer, "
+"agent, supervisor, administrator ) will able to access helpdesk on same page "
+"depending on their role. Please note, this page will not use your theme. "
+"That means your other frontend features like header, footer, sidebars, menus "
+"etc. will not be applicable to this page. It will have button to go back to "
+"your homepage. It does not require to have any shortcode, just go to your "
+"pages and create new page without description."
+msgstr ""
+"Esta página se usará como página de servicio de asistencia en el front-end. "
+"Todos los usuarios (cliente, agente, supervisor, administrador) podrán "
+"acceder al servicio de ayuda en la misma página, según su rol. Tenga en "
+"cuenta que esta página no usará su tema. Eso significa que sus otras "
+"funciones frontend como encabezado, pie de página, barras laterales, menús, "
+"etc. no serán aplicables a esta página. Tendrá un botón para volver a tu "
+"página de inicio. No requiere tener ningún código abreviado, solo vaya a sus "
+"páginas y cree una página nueva sin descripción."
+
+msgid "This priority will be default priority for new ticket."
+msgstr "Esta será la prioridad por defecto para nuevos tickets."
+
+msgid "This status will be default status for new ticket."
+msgstr "Este estado será el estado defecto para nuevos tickets."
+
+msgid "Ticket"
+msgstr "Ticket"
+
+msgid "Ticket Category"
+msgstr "Categoría de Ticket"
+
+msgid "Ticket Fields"
+msgstr "Campos de Ticket"
+
+msgid "Ticket Form"
+msgstr "Formulario de Tickets"
+
+msgid "Ticket ID"
+msgstr "Ticket ID"
+
+msgid "Ticket ID Prefix"
+msgstr "Prefijo ID de Ticket"
+
+msgid "Ticket List"
+msgstr "Lista de Tickets"
+
+msgid "Ticket List Settings"
+msgstr "Ajustes de Lista de Tickets"
+
+msgid "Ticket Priority"
+msgstr "Prioridad de Ticket"
+
+msgid "Ticket Status"
+msgstr "Estado de Ticket"
+
+msgid "Ticket Status after Agent Reply"
+msgstr "Estado del ticket después de la respuesta del agente"
+
+msgid "Ticket Status after Customer Reply"
+msgstr "Estado de Ticket después de la Respuesta del Cliente"
+
+msgid "Ticket Subject"
+msgstr "Asunto del Ticket"
+
+msgid "Ticket create time"
+msgstr "Hora de Creación de Ticket"
+
+msgid "Ticket description given while creating ticket"
+msgstr "Descripción del ticket dado al crear el ticket"
+
+msgid "Ticket status"
+msgstr "Estado de Ticket"
+
+msgid "Tickets"
+msgstr "Tickets"
+
+msgid ""
+"Tickets are loaded on selected order for agent view by default. If agent "
+"apply manual filter, this setting will not take effect."
+msgstr ""
+"Por defecto los Tickets no se cargan por orden de vista de agente. Si el "
+"agente aplica un filtro manual, ese ajuste no se vera."
+
+msgid ""
+"Tickets are loaded on selected order for customer view by default. If "
+"customer apply manual filter, this setting will not take effect."
+msgstr ""
+"Los tickets se cargan en el orden seleccionado para la vista del cliente de "
+"forma predeterminada. Si el cliente aplica el filtro manual, esta "
+"configuración no tendrá efecto."
+
+msgid "Title"
+msgstr "Titulo"
+
+msgid "To"
+msgstr "Para"
+
+msgid "Top"
+msgstr "Parte superior"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "URL of the ticket."
+msgstr "URL del Ticket."
+
+msgid "Unauthorized access!"
+msgstr "¡Acceso no autorizado!"
+
+msgid "Upload Logo"
+msgstr "Subir Logo"
+
+msgid "Uploading..."
+msgstr "Enviando..."
+
+msgid "User Type"
+msgstr "Tipo de Usuario"
+
+msgid "Username"
+msgstr "Usuario"
+
+msgid "Username or email"
+msgstr "Usuario o Email"
+
+msgid "View Less ..."
+msgstr "Ver menos..."
+
+msgid "View More ..."
+msgstr "Ver Más.."
+
+msgid "View Ticket"
+msgstr "Ver Ticket"
+
+msgid "Visible to support staff only!"
+msgstr "¡Solamente visible para empleados de soporte!"
+
+msgid ""
+"WARNING: Anyone having your email address can access your guest tickets. "
+"Please avoid sharing any sensitive data."
+msgstr ""
+"AVISO: Cualquiera  que tenga tu dirección de correo electrónico podrá "
+"acceder a tus tickets de invitado. Por favor evite dar cualquier información "
+"sensible."
+
+msgid "WP Support Plus Settings"
+msgstr "Ajustes de WP Support Plus"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "You do not have permission to delete public filter!"
+msgstr "¡No tiene permiso para borrar filtros públicos!"
+
+msgid "You do not have permission to install plugin updates"
+msgstr "No tiene permiso para instalar actualizaciones de complementos"
+
+msgid "Your Email"
+msgstr "Tu Correo Electrónico"
+
+msgid "Your Name"
+msgstr "Tu Nombre"
+
+msgid "done"
+msgstr "hecho"
+
+msgid "Ticket Statistics"
+msgstr "Estadísticas de Consultas Realizadas"
